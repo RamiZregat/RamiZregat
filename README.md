@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RamiZregat
 - 👀 I’m interested in learning coding and programming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in LTUC - Advanced Computing School
 - 📫 How to reach me : Rami.zregat97@gmail.com
 
 <!---
