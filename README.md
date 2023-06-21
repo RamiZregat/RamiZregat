@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiZregat
 - 👀 I’m interested in learning coding and programming 
-- 🌱 I’m a Full Stack Developer
+- 🌱 I’m a Front-end Developer
 - 📫 How to reach me : rami.zregat97@gmail.com
 
 <!---
