@@ -12,8 +12,6 @@
 
 
 # 📊 GitHub Stats:
-<h3 align="center">A passionate frontend developer</h3>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramizregat&show_icons=true&locale=en&layout=compact" alt="ramizregat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramizregat&" alt="ramizregat" /></p>
